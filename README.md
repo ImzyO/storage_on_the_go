@@ -7,4 +7,4 @@
 
 ## Database
 - ** NoSQL MongoDB ** stores data
-- Hnalde database with ORM|ODM Mongoengine 
+- Handle database with ORM|ODM Mongoengine 
